@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "title": "扬子江船业获6艘集装箱船订单",
+    "summary": "10月10日，扬子江船业集团与欧洲船东正式签署6艘15000TEU集装箱船建造合同，预计2028年交付。该批新造船订单总价值约7.8亿美元。",
+    "link": "https://example.com/news/101",
+    "date": "2026-10-10",
+    "source_platform": "示例媒体A"
+  },
+  {
+    "id": 102,
+    "title": "新时代造船一艘散货船顺利交付",
+    "summary": "10月8日，新时代造船为希腊船东建造的82000吨散货船在江苏靖江命名交付，较合同期提前两个月。",
+    "link": "https://example.com/news/102",
+    "date": "2026-10-08",
+    "source_platform": "示例媒体B"
+  },
+  {
+    "id": 103,
+    "title": "Yangzijiang Shipbuilding clinches six boxship orders",
+    "summary": "Yangzijiang Shipbuilding has signed contracts with a European owner for six 15,000 TEU container ships, with deliveries scheduled from 2028. The deal is valued at around USD 780 million.",
+    "link": "https://example.com/news/103",
+    "date": "2026-10-10",
+    "source_platform": "示例媒体C"
+  },
+  {
+    "id": 104,
+    "title": "外高桥造船17.4万方LNG运输船开工",
+    "summary": "10月9日，上海外高桥造船有限公司为某能源企业建造的17.4万方LNG运输船举行开工仪式。",
+    "link": "https://example.com/news/104",
+    "date": "2026-10-09",
+    "source_platform": "示例媒体A"
+  },
+  {
+    "id": 105,
+    "title": "大连船舶重工获32万吨油轮订单",
+    "summary": "大连船舶重工近日获一艘32万吨VLCC油轮订单，船东为国内某大型航运企业，具体交付期未披露。",
+    "link": "https://example.com/news/105",
+    "date": "2026-10-09",
+    "source_platform": "示例媒体D"
+  }
+]

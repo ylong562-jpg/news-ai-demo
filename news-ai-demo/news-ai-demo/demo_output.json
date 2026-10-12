@@ -1,0 +1,42 @@
+[
+  {
+    "id": 103,
+    "title": "Yangzijiang Shipbuilding clinches six boxship orders",
+    "date": "2026-10-10",
+    "source_platform": "示例媒体C",
+    "duplicate_count": 2,
+    "tags": "{\"main_tags\": [\"新造船订单\"], \"secondary_tags\": [\"集装箱船\"], \"information_density\": {\"新造船订单\": \"medium\"}}",
+    "entity": "[{\"main_tag\": \"新造船订单\", \"entity\": \"{\\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"shipyard\\\": \\\"扬子江船业\\\"}\"}]",
+    "data": "[{\"main_tag\": \"新造船订单\", \"data\": \"[{\\\"trade_type\\\": \\\"签署订单\\\", \\\"date\\\": \\\"2026-10-10\\\", \\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"ship_type\\\": \\\"集装箱船\\\", \\\"quantity\\\": \\\"6\\\", \\\"specs\\\": \\\"15000 TEU\\\", \\\"price\\\": \\\"7.8亿美元\\\", \\\"delivery\\\": \\\"2028年\\\", \\\"power\\\": null, \\\"shipyard\\\": \\\"扬子江船业\\\", \\\"classification_society\\\": null, \\\"flag\\\": null, \\\"design_institute\\\": null}]\"}]"
+  },
+  {
+    "id": 102,
+    "title": "新时代造船一艘散货船顺利交付",
+    "date": "2026-10-08",
+    "source_platform": "示例媒体B",
+    "duplicate_count": 1,
+    "tags": "{\"main_tags\": [\"船舶建造\"], \"secondary_tags\": [\"散货船\"], \"information_density\": {\"船舶建造\": \"medium\"}}",
+    "entity": "[{\"main_tag\": \"船舶建造\", \"entity\": \"{\\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"shipyard\\\": \\\"新时代造船\\\"}\"}]",
+    "data": "[{\"main_tag\": \"船舶建造\", \"data\": \"[{\\\"date\\\": \\\"2026-10-08\\\", \\\"event_type\\\": \\\"交付\\\", \\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"shipyard\\\": \\\"新时代造船\\\", \\\"ship_type\\\": \\\"散货船\\\", \\\"specs\\\": null, \\\"vessel_name\\\": null}]\"}]"
+  },
+  {
+    "id": 104,
+    "title": "外高桥造船17.4万方LNG运输船开工",
+    "date": "2026-10-09",
+    "source_platform": "示例媒体A",
+    "duplicate_count": 1,
+    "tags": "{\"main_tags\": [\"船舶建造\"], \"secondary_tags\": [], \"information_density\": {\"船舶建造\": \"medium\"}}",
+    "entity": "[{\"main_tag\": \"船舶建造\", \"entity\": \"{\\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"shipyard\\\": \\\"外高桥造船\\\"}\"}]",
+    "data": "[{\"main_tag\": \"船舶建造\", \"data\": \"[{\\\"date\\\": \\\"2026-10-08\\\", \\\"event_type\\\": \\\"钢材切割\\\", \\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"shipyard\\\": \\\"外高桥造船\\\", \\\"ship_type\\\": \\\"LNG运输船\\\", \\\"specs\\\": null, \\\"vessel_name\\\": null}]\"}]"
+  },
+  {
+    "id": 105,
+    "title": "大连船舶重工获32万吨油轮订单",
+    "date": "2026-10-09",
+    "source_platform": "示例媒体D",
+    "duplicate_count": 1,
+    "tags": "{\"main_tags\": [\"新造船订单\"], \"secondary_tags\": [\"油轮\"], \"information_density\": {\"新造船订单\": \"medium\"}}",
+    "entity": "[{\"main_tag\": \"新造船订单\", \"entity\": \"{\\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"shipyard\\\": \\\"大连船舶重工\\\"}\"}]",
+    "data": "[{\"main_tag\": \"新造船订单\", \"data\": \"[{\\\"trade_type\\\": \\\"签署订单\\\", \\\"date\\\": \\\"2026-10-10\\\", \\\"shipowner\\\": \\\"环洋航运集团\\\", \\\"ship_type\\\": \\\"油轮\\\", \\\"quantity\\\": \\\"6\\\", \\\"specs\\\": \\\"15000 TEU\\\", \\\"price\\\": \\\"7.8亿美元\\\", \\\"delivery\\\": \\\"2028年\\\", \\\"power\\\": null, \\\"shipyard\\\": \\\"大连船舶重工\\\", \\\"classification_society\\\": null, \\\"flag\\\": null, \\\"design_institute\\\": null}]\"}]"
+  }
+]
